@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#Copyright Stein-Ove Hagen
 """
 Created on Mon Nov  2 10:51:17 2020
 
@@ -8,7 +9,7 @@ Kurs i Python
 Oppgave 1
 """
 # a)
-print("Hei verden")
+print("Hei på deg verden")
 
 # d)
 navn = input("Tast inn navnet ditt: ")
