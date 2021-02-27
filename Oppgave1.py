@@ -3,9 +3,10 @@
 """
 Created on Mon Nov  2 10:51:17 2020
 
-@author: stein
+@author: stein, børge
 
-Kurs i Python
+Løsningsforslag for første oppgave i pythonkurs.
+
 Oppgave 1
 """
 # a)
