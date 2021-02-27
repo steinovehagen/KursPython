@@ -11,7 +11,7 @@ Oppgave 1
 print("Hei verden")
 
 # d)
-navn = input("Tast inn navnet ditt: ")
+navn = input("Skriv inn navnet ditt: ")
 print(f"Hei på deg {navn}!")
 
 lengde = len(navn)
