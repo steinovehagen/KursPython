@@ -4,7 +4,7 @@
 Created on Mon Nov  2 10:51:17 2020
 
 @author: stein
-
+#Børge har ingenting med denne kode å gjøre
 Kurs i Python
 Oppgave 1
 """
