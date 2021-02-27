@@ -3,9 +3,12 @@
 """
 Created on Mon Nov  2 10:51:17 2020
 
-@author: stein, børge
+
+@author: stein
 
 Løsningsforslag for første oppgave i pythonkurs.
+
+#Børge har ingenting med denne kode å gjøre
 
 Oppgave 1
 """
