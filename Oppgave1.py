@@ -15,4 +15,4 @@ navn = input("Tast inn navnet ditt: ")
 print(f"Hei på deg {navn}!")
 
 lengde = len(navn)
-print(f"Navnet ditt har {lengde} bokstaver")
+print(f"Navnet ditt har {lengde} bokstaver.")
