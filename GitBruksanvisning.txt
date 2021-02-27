@@ -1,0 +1,23 @@
+GITHUB
+
+Laste opp ny fil / endring
+
+git add "filnavn"
+(git status)
+git commit -m "Melding"
+git push
+
+Laste ned endriger
+
+git pull
+
+Laste ned repository
+
+git clone URL
+
+Lage nytt repository
+
+Gjøre det i nettleser. 
+trykke "pluss" tegnet øvre høyre hjørne
+git clone URL
+
